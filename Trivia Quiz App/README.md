@@ -1,12 +1,39 @@
-# React + Vite
+# 🧠 Ultimate Trivia Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Ultimate Trivia Challenge**, a React-based quiz application that lets users test their knowledge across various categories and difficulty levels using the Open Trivia DB API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Choose from trivia categories: General Knowledge, Computers, Sports, and History
+- Select difficulty: Easy, Medium, or Hard
+- Dynamic multiple-choice questions
+- See if your answer was correct and try again
+- Clean and responsive UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Tech Stack
+
+- **React** (Functional Components + Hooks)
+- **JavaScript (ES6+)**
+- **Open Trivia DB API**
+- **CSS**
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- npm (comes with Node.js)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/trivia-quiz-app.git
+cd trivia-quiz-app
